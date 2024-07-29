@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivanjali</h1>
 <h3 align="center">A passionate Software developer and Learner from India</h3>
-<iframe align="right" alt="Coding" width="400" src="https://giphy.com/embed/px9v45I39CcxyXPqEy" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-typing-working-from-home-px9v45I39CcxyXPqEy">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/px9v45I39CcxyXPqEy/giphy.gif" alt="Coding" width="400" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanjalimore&label=Profile%20views&color=0e75b6&style=flat" alt="shivanjalimore" /> </p>
 
 - 🔭 I’m currently working on **IACSD Edutrack**
