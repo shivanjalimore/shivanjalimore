@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivanjali</h1>
 <h3 align="center">A passionate Software developer and Learner from India</h3>
-<img src="https://media.giphy.com/media/px9v45I39CcxyXPqEy/giphy.gif" alt="Coding" width="400" />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/px9v45I39CcxyXPqEy/giphy.gif" alt="Coding" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanjalimore&label=Profile%20views&color=0e75b6&style=flat" alt="shivanjalimore" /> </p>
 
